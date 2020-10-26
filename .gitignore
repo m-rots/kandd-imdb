@@ -1,0 +1,4 @@
+/target
+*.ttl
+*.tsv
+/.vscode
